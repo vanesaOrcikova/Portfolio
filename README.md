@@ -7,7 +7,7 @@ Brief showcase with design and source code, from my learning path as Front-end d
 [SourceCode](https://github.com/vanesaOrcikova/Portfolio/tree/master/Formular_ContactMe)
 ![formular_contract](https://user-images.githubusercontent.com/53372371/71375216-c311ed00-25bd-11ea-9f17-4741a43f1e11.PNG)
 
-:white_check_mark: Register page (Formular)
+:white_check_mark: SignUp page (Formular)
 ---------
 [SourceCode](https://github.com/vanesaOrcikova/Portfolio/tree/master/Formular_Infinity)
 ![Infinity](https://user-images.githubusercontent.com/53372371/71375319-1b48ef00-25be-11ea-96f5-27074ffc82e9.PNG)
