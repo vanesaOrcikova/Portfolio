@@ -1,0 +1,159 @@
+body{
+	background-color: #364652;
+}
+
+.header{
+	/*border: 2px solid red;*/
+	border-radius: 17px;
+	padding-bottom: 500px;
+	width: 1100px;
+	height: 20px;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.picture{
+	border-top-right-radius: 17px; 
+	border-bottom-right-radius: 17px; 
+	margin-left: 559px;	
+}
+
+.icon-infinity{
+	z-index: -1;
+	width: 55px;
+	height: 55px;
+	margin-top: -340px;
+	margin-left: 800px;
+}
+
+.title{
+	margin-top: -300px;
+	margin-left: 760px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+}
+
+.textright{
+	margin-left: 640px;
+	margin-right: 35px;
+	margin-top: -25px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.anything{
+	border-top-left-radius: 17px;
+	border-bottom-left-radius: 17px;
+	width: 556px;
+	height: 520px;
+	margin-left: 85px;
+	margin-top: -540px;
+	background-color: white;
+}
+
+.maintitle{
+	text-align: center;
+	padding-top: 40px;
+	font-family: 'Open Sans', sans-serif;
+	color: #6f6f6f;
+	font-size: 20px;
+}
+
+.iconinfinity{
+	margin-left: 180px;
+	width: 55px;
+	height: 55px;
+	margin-top: -15px;
+}
+
+.subtitle{
+	margin-top: -52px;	
+	font-size: 35px;
+	margin-left: 245px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.textleft{
+	color: red;
+	font-size: 13px;
+	margin-left: 140px;
+	margin-right: 100px;
+	margin-top: -12px;
+	text-align: center;
+	color: #bbb;
+}
+
+.login{
+
+}
+
+input[type="name"],input[type="password"],button{
+	display: block;
+	height: 40px;
+	width: 340px;
+	border-radius: 20px;
+	border: 1.2px solid #ea3b5a;
+	margin-top: -338px;
+	margin-left: 210px;
+	font-size: 13px;
+	padding-left: 42px;
+	font-family: 'Raleway', sans-serif;
+	color: #bbb;
+	cursor: pointer;
+}
+
+.icon-people,.icon-lock{
+	margin-left: 222px;
+	margin-top: -30px;
+}
+
+input[type="password"]{
+	margin-top: 12px;
+}
+
+button{
+	background-color: #ea3b5a;
+	color: white;
+	font-size: 16px;
+	margin-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 0px;
+}
+
+.two-color-text{
+	color: #bbb;
+	font-size: 12px;
+	margin-top: 15px;
+	margin-left: 264px;
+}
+
+strong{
+	font-family: 'Open Sans', sans-serif;
+	color: #ea3b5a;
+	margin-left: 6px;
+}
+
+hr{
+	border-bottom: 0.5px solid #bbb;
+	margin-left: 230px;
+	margin-right: 750px;
+	margin-top: 32px;
+}
+
+.footer-text{
+	margin-left: 290px;
+	margin-top: 35px;
+	color: #bbb;
+	font-size: 12.5px;
+}
+
+.footer-icon{
+	margin-left: 270px;
+	margin-right: -239px
+}
+
+
+
+
+
+
+

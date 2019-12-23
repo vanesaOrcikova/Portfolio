@@ -1,0 +1,138 @@
+body{
+	color: #959595;
+}
+
+header{
+	font-size: 27px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+
+strong{
+	color: #666566;
+}
+
+h2{
+
+	font-size: 20px;
+	text-align: center;
+}
+
+article{
+	float: left;
+	margin: auto;
+	height: 150px;
+	width: 310px;
+	text-align: center;
+}
+
+p{
+	padding-left: 1pc;
+	width: 270px;
+}
+
+.content{
+	margin: auto;
+	height: 550px;
+	width: 995px;
+}
+
+.box{
+	width: 320px;
+	height: 500px;
+	display: inline-block;
+	padding-left: 3px;
+	padding-top: -20px;
+	text-align: center;
+}
+
+.photo{
+	float: left;
+	width: 280px;
+	height: 200px;
+	margin: 20px;
+	border-style: solid;
+	color: #959595;
+	border-width: 5px;
+	border-radius: 2px;
+}
+
+.button{
+	background-color: #f73c4e;
+	font-family: 'Oswald', sans-serif;
+	padding: 15px 30px;
+	display: inline-block;
+	cursor: pointer;
+	border-radius: 5px;
+	margin-left: 505px;
+	margin-top: -70px;
+}
+
+.text-button{
+	font-size: 18px;
+	background-color: #f73c4e;
+	color: white;
+	text-decoration: none;
+	padding-left: 10px;
+}
+
+.elements-btn{
+	display: inline-block;
+	float: left;
+}
+
+.elements-btn img{
+	width: 20px;
+	height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

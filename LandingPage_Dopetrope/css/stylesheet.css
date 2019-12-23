@@ -1,0 +1,116 @@
+body{ /* telo stránky*/
+	color: #888; /* farba*/
+}
+
+::selection{background: #ccc; color: #000; text-shadow: none;}
+
+#MainHeader{ /* hlavny nadpis*/
+	letter-spacing: 3px; /* rozostupy medzi pismenami*/
+	font-size: 40px; /* velkost pisma*/
+	font-family: 'Anton', sans-serif; /* tvar pisma*/
+	text-align: center; /* zarovnanie na stred*/
+
+	color: #222; /* farba*/
+	padding-top: 20px; /* zarovnanie na hor*/
+	padding-bottom: 20px; /* zarovnanie na dol*/
+}
+
+.Content{ /* obsah stranky*/
+	position: relative; /*nemozme nadstavit hodnoty*/
+	margin: 0 auto; /* zarovnanie do stredu*/
+	background-color: #ddd; /* farba pristoru*/
+	border-radius: 10px;
+	width: 1200px; /* sirka*/
+	height: 900px; /* vyska*/
+	padding-bottom: 92px; /* zarovnanie na dol*/
+}
+
+.ContentInsider{ /*Priestor vo vnutri Contentu*/
+	padding-top: 60px; /*Odtlacenie nadol*/
+}
+
+.First-box{ /* prvy box*/
+	background-color: white; /* pozadie*/
+	width: 690px; /* sirka*/
+	height: 880px;	/* vyska*/
+	margin-left: 70px; /* zarovnanie z lava */
+}
+
+
+.Content img{ /* obrazok*/
+	url("../pic/pic01.jpg") 50% 0px no-repeat;/* obrázok*/
+	width: 690px; /* sirka*/
+	height: 300px;	/* vyska*/
+	margin-top: 0px; /* zarovnanie odvrchu*/
+}
+
+h1,h4,.text,h3{ /* aby sme nemuseli kazdemu pisat tak sme to dali dokopi*/
+	padding-left: 25px; /* zarovnanie z lava*/
+}
+
+h1,h3{ /* aby sme nemuseli kazdemu pisat tak sme to dali dokopi*/
+ 	font-family: 'Oswald', sans-serif; /* tvar pisma*/
+ 	letter-spacing: 1px; /* rozostupy medzi pismenami*/
+ 	margin-top: 40px; /* zarovnanie na hor*/
+ 	color: #222; /* farba*/
+ }
+
+h4{ /* nadstavenie pre podnadpis*/
+	font-style: italic; /* styl pisma "italic sa zakrivi"*/
+	font-family: 'Open Sans Condensed', sans-serif; /* styl pisma*/
+	margin-top: -5px; /* zarovnanie na hor*/
+}
+
+.text{  /* nadstavenie pre texty*/
+	font-size: 17px; /* velkost*/
+	max-width: 600px; /* odsadenie z prava*/
+	padding-top: 20px; /* zarovnanie na hor*/
+}
+
+.text2{  /* nadstavenie pre texty*/
+	font-size: 17px; /* velkost*/
+	max-width: 250px; /* odsadenie z prava*/
+	padding-top: 20px; /* zarovnanie na hor*/
+	padding-left: 25px;
+}
+
+.Second-box{ /* druhy box*/
+	float: right; /*Objekt sa posunie , plava napravo*/
+	margin-top: -880px; /* zarovnanie na hor*/
+	margin-right: 50px; /* zarovnanie z lava*/
+	background-color: white; /* pozadie*/
+	width: 300px; /* sirka*/
+	height: 450px;	/* vyska*/
+}
+
+.Second-box img{ /* nadstavenie pre fotku*/
+	height: 150px;  /* vyska*/
+	width: 300px; /* sirka*/
+}
+
+
+.Third-box{ /* tredti box*/
+	float: right; /* hodi ti objekt kde chces*/
+	margin-top: -400px; /* zarovnanie na hor*/
+	margin-right: 50px; /* posun do prava*/
+	background-color: white; /* pozadie*/
+	width: 300px; /* sirka*/
+	height: 280px;	/* vyska*/
+}
+
+.button{ /* button*/
+    background-color: #222; /* pozadie*/
+    padding: 10px 30px; /* zarovnáme text*/
+ 	display: inline-block; /* drzi poziciu riadku*/
+    cursor: pointer; /* ked nabehnem na button, cursor zmeni na prst */
+	border-radius: 4px; /* zaoblenie*/
+	font-family: 'Oswald', sans-serif; /* tvar pisma*/
+	margin-left: 25px; /* posun do lava*/
+}
+
+.button-text{ /* text v buttone*/
+	background-color: #222; /* drzi poziciu riadku*/
+	color: white; /* farba*/
+	text-decoration: none; /* zrusi ciaru*/
+    font-size: 17px; /* velkost*/
+}

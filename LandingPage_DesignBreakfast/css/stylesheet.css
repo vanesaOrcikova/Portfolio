@@ -1,0 +1,80 @@
+body{
+	/*background-color: #0e0e0e;*/
+}
+
+h3{
+	color: #777777;
+	margin-left: 20px;
+	margin-top: 26px;
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	display: inline-block;
+	text-align: center;
+}
+
+h1{
+	color: #ffffff;
+	text-align: center;
+	font-family: 'Francois One', sans-serif;
+	font-size: 80px;
+	letter-spacing: 7px; /* rozostupy medzi pismenami*/
+	padding-top: 50px;
+}
+
+h2{
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Francois One', sans-serif;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+button{
+	background-color: #fd6955;
+	color: #ffffff;
+	padding: 15px 25px;
+	font-size: 21px;
+	border-radius: 5px;
+	border: none;
+	letter-spacing: 0.5px;
+	font-family: 'Francois One', sans-serif;
+}
+
+p{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 120px;
+	position: absolute;
+	left: 430px;
+	right: 430px;
+	font-family: 'Francois One', sans-serif;
+}
+
+.text{
+	margin-top: -60px;
+	margin-left: 360px;
+	margin-right: 360px;
+}
+
+.ButtonBox{
+	position: absolute;
+	left: 495px;
+	top: 370px;
+}
+
+.InformersTypes{
+	background-color: #8fd2d2;
+	width: 1250px;
+	height: 510px;
+	margin-left: -2px;
+	margin-top: -66px;
+}
+
+.Navigation{
+	background-color: #ffffff;
+	width: 1260px;
+	height: 70px;
+	margin-left: 1px;
+	margin-top: 10px;
+	text-align: center;
+}
