@@ -1,6 +1,7 @@
 :chart_with_upwards_trend: About Portfolio
 ---------
 Brief showcase with design and source code, from my learning path as Front-end developer. 
+Portfolio stack HTML, CSS
 
 :white_check_mark: Contact me (Formular)
 ---------
